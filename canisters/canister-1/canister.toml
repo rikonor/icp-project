@@ -1,0 +1,6 @@
+[canister]
+name = "canister-1"
+type = "rust"
+
+[canister.rust]
+package = "canister-1"

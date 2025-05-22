@@ -1,0 +1,6 @@
+[canister]
+name = "canister-3"
+type = "motoko"
+
+[canister.motoko]
+input = "src/main.mo"
